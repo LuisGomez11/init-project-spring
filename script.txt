@@ -1,0 +1,8 @@
+create database registro;
+
+
+
+set global time_zone='+3:00';
+
+
+use registro;
